@@ -4,7 +4,7 @@
 
 **Project Description:**  
 
-The Canalyse 2025 project aims to develop a web platform specialized in collecting and analyzing the issues encountered during the Africa Cup of Nations organized in Morocco. The primary objective of this initiative is to extract and synthesize relevant information to prevent the recurrence of these issues during the 2030 FIFA World Cup, also planned to be held in Morocco. This report provides a detailed overview of the activities conducted and the results achieved by each team involved in the execution of this project, highlighting the joint efforts and steps taken to meet the set objectives.  
+The Canalyse 2025 project aims to develop a web platform specialized in collecting and analyzing the issues encountered during the Africa Cup of Nations organized in Morocco. The primary objective of this initiative is to extract and synthesize relevant information to prevent the recurrence of these issues during the 2030 FIFA World Cup, also planned to be held in Morocco. 
 
 **Project Structure:**  
 
